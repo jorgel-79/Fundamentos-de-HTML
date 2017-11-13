@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="75mm"
+   height="45mm"
+   viewBox="0 0 75 45"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="logojorge.svg">
+  <defs
+     id="defs2">
+    <filter
+       inkscape:label="In and Out"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Inner colorized shadow, outer black shadow"
+       style="color-interpolation-filters:sRGB"
+       id="filter3756">
+      <feGaussianBlur
+         result="result0"
+         in="SourceAlpha"
+         stdDeviation="4"
+         id="feGaussianBlur3750" />
+      <feOffset
+         dx="5"
+         dy="5"
+         result="result4"
+         id="feOffset3752" />
+      <feComposite
+         in="SourceGraphic"
+         in2="result4"
+         operator="xor"
+         result="result3"
+         id="feComposite3754" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.81454783"
+     inkscape:cx="400"
+     inkscape:cy="142.68641"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:measure-start="62.6114,407.588"
+     inkscape:measure-end="302.008,424.776"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-252)">
+    <rect
+       style="fill:#00ffff;stroke-width:0.26458332;filter:url(#filter3756)"
+       id="rect3714"
+       width="63.990002"
+       height="30.5333"
+       x="4.2226911"
+       y="259.64545"
+       transform="matrix(0.95625759,0,0,1.2289912,2.7752645,-62.952435)" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Script MT Bold';-inkscape-font-specification:'Script MT Bold,  Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="10.069491"
+       y="270.03973"
+       id="text3701"><tspan
+         sodipodi:role="line"
+         id="tspan3699"
+         x="10.069491"
+         y="270.03973"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:'Script MT Bold';-inkscape-font-specification:'Script MT Bold,  Italic';fill:#000080;stroke-width:0.26458332">JC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.01386547px;line-height:1.25;font-family:'Script MT Bold';-inkscape-font-specification:'Script MT Bold,  Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.27534661"
+       x="7.5092483"
+       y="276.63049"
+       id="text3705"
+       transform="scale(1.0406802,0.96091001)"><tspan
+         sodipodi:role="line"
+         id="tspan3703"
+         x="7.5092483"
+         y="286.10147"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Script MT Bold';-inkscape-font-specification:'Script MT Bold,  Italic';stroke-width:0.27534661"></tspan><tspan
+         sodipodi:role="line"
+         x="7.5092483"
+         y="299.8688"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Script MT Bold';-inkscape-font-specification:'Script MT Bold,  Italic';stroke-width:0.27534661"
+         id="tspan3707">Jorge Cohen</tspan></text>
+  </g>
+</svg>
